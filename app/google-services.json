@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "326381383808",
+    "firebase_url": "https://applearningandroid-default-rtdb.firebaseio.com",
+    "project_id": "applearningandroid",
+    "storage_bucket": "applearningandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326381383808:android:bc986cfd8456709c217665",
+        "android_client_info": {
+          "package_name": "com.example.applearningandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJcm83N9OgAiTHqzfS7S5HBR0VRa2DsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

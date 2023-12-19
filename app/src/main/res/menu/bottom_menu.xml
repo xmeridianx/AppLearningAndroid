@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemHeadlines"
+        android:icon="@drawable/icon_headlines"
+        android:title="Обучение"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/itemSaved"
+        android:icon="@drawable/icon_saved"
+        android:title="Помощь"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/itemSources"
+        android:icon="@drawable/icon_sources"
+        android:title="Вопросы"
+        android:orderInCategory="1"/>
+</menu>
